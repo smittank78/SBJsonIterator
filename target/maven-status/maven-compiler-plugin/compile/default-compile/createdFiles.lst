@@ -1,0 +1,8 @@
+com/iterate/json/service/JsonService.class
+com/iterate/json/dto/organizationNodes.class
+com/iterate/json/dto/Real.class
+com/iterate/json/controller/Controller.class
+com/iterate/json/dto/RepeatObject.class
+com/iterate/json/SbJsonIterateApplication.class
+com/iterate/json/dto/Student.class
+com/iterate/json/dto/Data.class
